@@ -1,8 +1,8 @@
 #ifndef SNAKE_H
 #define SNAKE_H
 
-#define WIDTH 30
-#define HEIGHT 30
+#define WIDTH 20
+#define HEIGHT 15
 #define MAX_SNAKE_LENGTH 200
 
 extern int gameOver;
